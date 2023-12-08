@@ -28,7 +28,7 @@ html{
 }
 .navbar ul li a{
     text-decoration: none;
-    color: antiquewhite;
+    color: black;
     padding: 8px 25px;
     transition: all 0.5s;
 }
@@ -43,14 +43,14 @@ html{
     display: flex;
     flex-direction: column;
     background-color: rgba(0, 0, 0, 0.5); 
-    height: 840px;
+    height: 900px;
     justify-content: center;
     align-items: center;
     color: white;
 }
 #Home::before{
     content: "";
-    position: absolute;
+    position: relative;
     top: 0;
     right: 0;
     background: url('./images/me.JPG') no-repeat center content-box;
