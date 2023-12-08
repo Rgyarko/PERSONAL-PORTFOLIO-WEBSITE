@@ -16,6 +16,11 @@ N/A
 i worked on this projects with the assistant of Samuel Cordova (TA)
 
 LINK
+git@github.com:Rgyarko/PERSONALPORTFOLIO2.git
+
+LICENSE
+please refer to the license in the repository
+
 
 
 
